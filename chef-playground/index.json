@@ -1,5 +1,6 @@
 {
     "title": "Chef Playground",
+    "description": "Experiment with Chef in a safe playground",
     "backend": {
         "imageid": "centos"
     },
