@@ -7,7 +7,7 @@
     "environment": {
         "uilayout": "editor",
         "hidesidebar": false,
-        "hidefinish": false,
+        "hidefinish": true,
         "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nWait a few seconds while ChefDK installs. Run `chef version` to check that it is already installed.\u001b[m\r\n"
     },
     "details": {
