@@ -24,9 +24,7 @@ file '/etc/motd' do
 end
 </pre>
 
-`cat default.rb`{{execute}}
-
-Try running it:
+Now try running it with Chef Client en local mode:
 
 `chef-client --local-mode default.rb`{{execute}}
 
